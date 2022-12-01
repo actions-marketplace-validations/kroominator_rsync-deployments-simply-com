@@ -1,4 +1,4 @@
-FROM drinternet/rsync:v1.4.0
+FROM drinternet/rsync:v1.4.2
 
 RUN apk add --update --no-cache openssh sshpass
 
